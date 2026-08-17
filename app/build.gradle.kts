@@ -47,5 +47,5 @@ dependencies {
     // Official Google library for Trusted Web Activities — this is what makes
     // the wrapped app use real Chrome underneath (real Service Worker, real
     // Push API, real notifications) instead of a stripped-down WebView.
-    implementation("com.google.androidbrowserhelper:androidbrowserhelper:2.6.0")
+    implementation("com.google.androidbrowserhelper:androidbrowserhelper:2.5.0")
 }
